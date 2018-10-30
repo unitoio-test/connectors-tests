@@ -1,3 +1,5 @@
+**DO NOT DELETE THIS REPO**
+
 # connectors-tests
 
 Used for testing the GitHubConnector.
